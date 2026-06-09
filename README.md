@@ -1,5 +1,7 @@
 # Puentes
 
+![Puentes Banner](docs/puentes-banner.png)
+
 > AI reasoning agent for understanding diverse community perspectives in Latin America
 
 **Agents League Hackathon 2026 — Reasoning Agents Track — Hack for Good**
@@ -27,6 +29,8 @@ It fights misinformation with a transparent 5-step reasoning chain grounded in 3
 ---
 
 ## Architecture
+
+![Puentes Architecture](docs/puentes-architecture.png)
 
 - **Platform:** Microsoft Foundry (Agent Service)
 - **Search:** Azure AI Search (vector index)
@@ -66,7 +70,8 @@ It fights misinformation with a transparent 5-step reasoning chain grounded in 3
 ## Repository Structure
 
 - **agent/system_prompt.md** — Full agent instructions (5-step reasoning chain)
-- **docs/architecture.md** — Architecture description and diagram
+- **docs/puentes-architecture.png** — Architecture diagram
+- **docs/puentes-banner.png** — Project banner
 - **knowledge-base/sources.md** — Full list of all 33 curated documents
 
 ---
